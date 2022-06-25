@@ -12,13 +12,15 @@
     },
     "dependencies": {
         "@tauri-apps/api": "^1.0.1",
-        "vue": "^3.2.25"
+        "vue": "^3.2.25",
+        "vue-router": "^4.0.0"
     },
     "devDependencies": {
         "@arco-design/web-vue": "^2.32.0",
         "@commitlint/cli": "^17.0.0",
         "@commitlint/config-conventional": "^17.0.0",
         "@tauri-apps/cli": "^1.0.0",
+        "@types/node": "^18.0.0",
         "@vitejs/plugin-vue": "^2.3.3",
         "dprint": "^0.29.0",
         "husky": "^8.0.0",
