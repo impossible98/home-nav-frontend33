@@ -17,6 +17,7 @@
         "**/node_modules",
         "**/*-lock.json",
 
+        "**/dist",
         "**/src-tauri"
     ],
     "plugins": [
